@@ -18,6 +18,7 @@ Storybook will open at `http://localhost:6006`
 
 ![Input](./public/input.png)
 ![Password](./public/pass.png)
+![Password](./public/show%20pass.png)
 ![Clearable](./public/clear.png)
 
 ###  Toast
